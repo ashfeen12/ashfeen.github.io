@@ -1,4 +1,3 @@
 title: Ashfeen Ubaid Khan
 description: Researcher
-#show_downloads:true
-theme:jekll-theme-cayman
+theme: jekyll-theme-cayman # <--- Best practice: add a space after the colon
